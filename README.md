@@ -1,4 +1,4 @@
-# DianaRastikhinaPortfolioQA
+# Курс ручной инженер-тестировщик
 примеры выполненных работ по тестированию <a href="https://github.com/DiRastikhina/DianaRastikhinaPortfolioQA/tree/main/%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5">веб</a>,<a href="https://github.com/DiRastikhina/DianaRastikhinaPortfolioQA/tree/main/%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5"> мобильных приложений</a> и<a href="https://github.com/DiRastikhina/DianaRastikhinaPortfolioQA/tree/main/API"> API</a>, сделанных во время прохождения курса Яндекс Практикум тестировщик
 
 ● Тестировала учебные веб-приложения Яндекс Самокат, Яндекс Драйв на соответствие требованиям и макетам. Анализировала требования к Яндекс Прилавку и Яндекс Маршруты.

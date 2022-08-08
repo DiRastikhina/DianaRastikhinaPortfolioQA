@@ -19,3 +19,4 @@
 Анализ требований ‣ проектирование проверок ‣составление чек-листов ‣составление тест-кейсов ‣SQL ‣REST ‣SOAP ‣HTML ‣CSS ‣XML ‣JSON‣консоль ‣Git ‣ JavaScript уровень начинающий ‣ PHP ‣тестирование веб-приложений ‣ELMA ‣DevTools ‣Charles ‣Postman ‣Яндекс Трекер ‣Apidoc ‣Swagger ‣кроссбраузерное тестирование ‣тестирование мобильных приложений ‣AndroidStudio ‣draw.io ‣Miro ‣XMind ‣smoke тестирование ‣регрессионное тестирование ‣ретест ‣тестирование API ‣MS Excel ‣SVN
 
 <a href="https://github.com/DiRastikhina/selenium_auto_test_course"> здесь можно посмотреть примеры моих работ по автоматизации тестирования на Python </a>
+<a href="https://github.com/DiRastikhina/Test_tasks_job_search.git"> здесь можно посмотреть выполненные тестовые работы для различных фирм </a>
